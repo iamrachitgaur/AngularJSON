@@ -1,4 +1,4 @@
-[
+{
   {"id":31120,"name":"Mark Spectre","balance":1200000,"status":"Available"},
   {"id":31121,"name":"Donald smith","balance":23000,"status":"Available"},
   {"id":31122,"name":"Daniel Espinoza","balance":4300000,"status":"Unavailable"},
@@ -10,4 +10,4 @@
   {"id":31128,"name":"Jacob Riglin","balance":895000,"status":"Available"},
   {"id":31129,"name":"Patrick Swayze","balance":1000,"status":"Available"},
   
-]
+}
