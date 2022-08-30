@@ -1,4 +1,4 @@
-[
+{
   {"id":31120,
   "name":"Mark Spectre",
   "balance":1200000,
@@ -56,4 +56,4 @@
    "balance":1000,
    "experience":85}
   
-]
+}
