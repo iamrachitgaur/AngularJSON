@@ -1,13 +1,59 @@
 {
-  {"id":31120,"name":"Mark Spectre","balance":1200000,"experience":87},
-  {"id":31121,"name":"Donald smith","balance":23000,"experience":58},
-  {"id":31122,"name":"Daniel Espinoza","balance":4300000,"experience":82},
-  {"id":31123,"name":"Steven Paul","balance":2800,"experience":48},
-  {"id":31124,"name":"Nicolas Locke","balance":190000,"experience":57},
-  {"id":31125,"name":"Kevin mart","balance":82000,"experience":61},
-  {"id":31126,"name":"Ryan Gosling","balance":940000,"experience":75},
-  {"id":31127,"name":"Chris Evans","balance":12800,"experience":39},
-  {"id":31128,"name":"Jacob Riglin","balance":895000,"experience":68},
-  {"id":31129,"name":"John Wick","balance":1000,"experience":85},
+  {"id":31120,
+  "name":"Mark Spectre",
+  "balance":1200000,
+  "experience":87
+  },
+
+  {"id":31121,
+   "name":"Donald smith",
+   "balance":23000,
+   "experience":58
+  },
+
+  {"id":31122,
+   "name":"Daniel Espinoza",
+   "balance":4300000,
+   "experience":82
+  },
+
+  {"id":31123,
+   "name":"Steven Paul",
+   "balance":2800,
+   "experience":48
+  },
+
+  {"id":31124,
+   "name":"Nicolas Locke",
+   "balance":190000,
+   "experience":57
+  },
+
+  {"id":31125,
+   "name":"Kevin mart",
+   "balance":82000,
+   "experience":61
+  },
+  
+  {"id":31126,
+   "name":"Ryan Gosling",
+   "balance":940000,
+   "experience":75
+  },
+
+  {"id":31127,
+   "name":"Chris Evans",
+   "balance":12800,
+   "experience":39
+  },
+  {"id":31128,
+   "name":"Jacob Riglin",
+   "balance":895000,
+   "experience":68
+  },
+  {"id":31129,
+   "name":"John Wick",
+   "balance":1000,
+   "experience":85}
   
 }
