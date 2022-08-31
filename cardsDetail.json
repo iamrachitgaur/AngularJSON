@@ -1,13 +1,72 @@
 [
-  {"id":31120,"name":"Mark Spectre","balance":1200000,"status":"Available"},
-  {"id":31121,"name":"Donald smith","balance":23000,"status":"Available"},
-  {"id":31122,"name":"Daniel Espinoza","balance":4300000,"status":"Unavailable"},
-  {"id":31123,"name":"Steven Paul","balance":2800,"status":"Available"},
-  {"id":31124,"name":"Nicolas Locke","balance":190000,"status":"Unavailable"},
-  {"id":31125,"name":"Kevin mart","balance":82000,"status":"Available"},
-  {"id":31126,"name":"Ryan Gosling","balance":940000,"status":"Unavailable"},
-  {"id":31127,"name":"Chris Evans","balance":12800,"status":"Unavailable"},
-  {"id":31128,"name":"Jacob Riglin","balance":895000,"status":"Available"},
-  {"id":31129,"name":"Patrick Swayze","balance":1000,"status":"Available"},
+  {
+   "id":31120,
+   "name":"Mark Spectre",
+    "balance":1200000,
+    "status":"Available"
+  },
   
+  {
+   "id":31121,
+    "name":"Donald smith",
+    "balance":23000,
+    "status":"Available"
+  },
+  
+  {
+   "id":31122,
+    "name":"Daniel Espinoza",
+    "balance":4300000,
+    "status":"Unavailable"
+  },
+  
+  {
+   "id":31123,
+    "name":"Steven Paul",
+    "balance":2800,
+    "status":"Available"
+  },
+  
+  {
+   "id":31124,
+    "name":"Nicolas Locke",
+    "balance":190000,
+    "status":"Unavailable"
+  },
+  
+  {
+   "id":31125,
+    "name":"Kevin mart",
+    "balance":82000,
+    "status":"Available"
+  },
+  
+  {
+   "id":31126,
+   "name":"Ryan Gosling",
+   "balance":940000,
+   "status":"Unavailable"
+  },
+  
+  {
+  "id":31127,
+    "name":"Chris Evans",
+    "balance":12800,
+    "status":"Unavailable"
+  },
+  
+  {
+   "id":31128,
+    "name":"Jacob Riglin",
+    "balance":895000,
+    "status":"Available"
+  },
+  
+  {
+   "id":31129,
+    "name":"Patrick Swayze",
+    "balance":1000,
+    "status":"Available"
+  }
+
 ]
