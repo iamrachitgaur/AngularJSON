@@ -1,0 +1,25 @@
+{
+    "_id": "63a9b3863fb43b791479987b",
+    "projectId": 1,
+    "name": "Database",
+    "portfolio": {
+        "_id": "63a05f91923558dfd4510161",
+        "portfolioId": 1,
+        "name": "Technology",
+    },
+    "projectType": "Project",
+    "owner": [
+        {
+            "email": "bruce@gmail.com",
+            "_id": "63a9b3863fb43b791479987c"
+        }
+    ],
+    "status": "Scheduled",
+    "createdBy": "rachit",
+    "startDate": "2022-12-27T00:00:00.000Z",
+    "endDate": "2023-03-31T00:00:00.000Z",
+    "description": "Desc",
+    "createdAt": "2022-12-26T14:45:26.844Z",
+    "updatedAt": "2022-12-26T14:45:26.844Z",
+    "__v": 0
+}
