@@ -1,16 +1,22 @@
-[{
-  "name":"The Barber Shop",
-  "image":"./assets/barbershop.jpg",
-},
-{
-  "name":"Good Place",
-  "image":"./assets/barbershop.jpg",
-},
-{
-  "name":"Nice Barbers",
-  "image":"./assets/barbershop.jpg",
-},
-{
-  "name":"Brothers Cut",
-  "image":"./assets/barbershop.jpg",
-}]
+[
+      {
+      "name":"The Barber Shop",
+      "image":"./assets/barbershop.jpg",
+    },
+  
+    {
+      "name":"Good Place",
+      "image":"./assets/barbershop.jpg",
+    },
+  
+    {
+      "name":"Nice Barbers",
+      "image":"./assets/barbershop.jpg",
+    },
+  
+    {
+      "name":"Brothers Cut",
+      "image":"./assets/barbershop.jpg",
+    }
+  
+]
