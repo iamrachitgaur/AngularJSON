@@ -1,22 +1,9 @@
+
 [
-      {
-      "name":"The Barber Shop",
-      "image":"./assets/barbershop.jpg",
-    },
-  
-    {
-      "name":"Good Place",
-      "image":"./assets/barbershop.jpg",
-    },
-  
-    {
-      "name":"Nice Barbers",
-      "image":"./assets/barbershop.jpg",
-    },
-  
-    {
-      "name":"Brothers Cut",
-      "image":"./assets/barbershop.jpg",
-    }
-  
+          {"id":1210,"name":"Rachit Gaur","designation":"CEO","experience":""},
+          {"id":1211,"name":"Don Toliver","designation":"Manager","experience":"40 years"},
+          {"id":1213,"name":"Andrew Smith","designation":"Security Guard","experience":"45 years"},
+          {"id":1214,"name":"Jade Johnson","designation":"Employee","experience":"25 years"},
+          {"id":1215,"name":"Faydee Shamom","designation":"Sweeper","experience":"30 years"}
 ]
+
