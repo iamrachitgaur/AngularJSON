@@ -1,4 +1,4 @@
-{
+[{
   name:The Barber Shop,
   image:./assets/barbershop.jpg,
 },
@@ -13,4 +13,4 @@
 {
   name:Brothers Cut,
   image:./assets/barbershop.jpg,
-}
+}]
